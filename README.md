@@ -1,4 +1,4 @@
-# Personal finance webapp cs50 final project
+# Personal finance webapp
 
 The project is a webapp based on Django framework with Python. Check it out
 here: https://youtu.be/hpU8AA_TSL0 . I will make it available on www.cosmincristescu.com as soon as possible.
