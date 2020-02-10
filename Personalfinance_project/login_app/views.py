@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-from register.models import Registers
+from register_app.models import Registers
 from django.http import HttpResponseRedirect
 from passlib.hash import pbkdf2_sha256
 from django.contrib import messages
